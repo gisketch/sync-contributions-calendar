@@ -1,4 +1,4 @@
-name: Run main sync script
+name: Run gitlab sync
 
 on:
   push:
